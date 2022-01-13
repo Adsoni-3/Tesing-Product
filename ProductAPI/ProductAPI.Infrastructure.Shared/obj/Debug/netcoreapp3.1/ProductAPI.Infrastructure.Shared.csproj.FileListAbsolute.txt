@@ -1,0 +1,15 @@
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.deps.json
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Application.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Domain.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Application.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ProductAPI.Domain.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.csproj.AssemblyReference.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.AssemblyInfoInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.AssemblyInfo.cs
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.csproj.CopyComplete
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ProductAPI.Infrastructure.Shared.pdb

@@ -1,0 +1,13 @@
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\bin\Debug\netstandard2.1\ProductAPI.Application.deps.json
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\bin\Debug\netstandard2.1\ProductAPI.Application.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\bin\Debug\netstandard2.1\ProductAPI.Application.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\bin\Debug\netstandard2.1\ProductAPI.Domain.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\bin\Debug\netstandard2.1\ProductAPI.Domain.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.csproj.AssemblyReference.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.AssemblyInfoInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.AssemblyInfo.cs
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.csproj.CoreCompileInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.csproj.CopyComplete
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Application\obj\Debug\netstandard2.1\ProductAPI.Application.pdb

@@ -1,0 +1,10 @@
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\bin\Debug\netstandard2.1\ProductAPI.Domain.deps.json
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\bin\Debug\netstandard2.1\ProductAPI.Domain.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\bin\Debug\netstandard2.1\ProductAPI.Domain.pdb
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.csproj.AssemblyReference.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.AssemblyInfoInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.AssemblyInfo.cs
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.csproj.CoreCompileInputs.cache
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.dll
+G:\Training Projects\Angular\ProductAPI\ProductAPI\ProductAPI.Domain\obj\Debug\netstandard2.1\ProductAPI.Domain.pdb
